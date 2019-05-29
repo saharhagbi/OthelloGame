@@ -1,0 +1,5 @@
+C:\Users\Sahar Hagbi\Desktop\B19 Ex02 Lidor 312465040 Sahar 308145853.sln\OthelloLogic\bin\Debug\OthelloLogic.dll
+C:\Users\Sahar Hagbi\Desktop\B19 Ex02 Lidor 312465040 Sahar 308145853.sln\OthelloLogic\bin\Debug\OthelloLogic.pdb
+C:\Users\Sahar Hagbi\Desktop\B19 Ex02 Lidor 312465040 Sahar 308145853.sln\OthelloLogic\obj\Debug\OthelloLogic.csprojResolveAssemblyReference.cache
+C:\Users\Sahar Hagbi\Desktop\B19 Ex02 Lidor 312465040 Sahar 308145853.sln\OthelloLogic\obj\Debug\OthelloLogic.dll
+C:\Users\Sahar Hagbi\Desktop\B19 Ex02 Lidor 312465040 Sahar 308145853.sln\OthelloLogic\obj\Debug\OthelloLogic.pdb

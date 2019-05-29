@@ -1,0 +1,8 @@
+C:\Users\Sahar Hagbi\Desktop\B19 Ex02 Lidor 312465040 Sahar 308145853.sln\UI\bin\Debug\UI.dll
+C:\Users\Sahar Hagbi\Desktop\B19 Ex02 Lidor 312465040 Sahar 308145853.sln\UI\bin\Debug\UI.pdb
+C:\Users\Sahar Hagbi\Desktop\B19 Ex02 Lidor 312465040 Sahar 308145853.sln\UI\bin\Debug\Ex02.ConsoleUtils.dll
+C:\Users\Sahar Hagbi\Desktop\B19 Ex02 Lidor 312465040 Sahar 308145853.sln\UI\bin\Debug\OthelloLogic.dll
+C:\Users\Sahar Hagbi\Desktop\B19 Ex02 Lidor 312465040 Sahar 308145853.sln\UI\bin\Debug\OthelloLogic.pdb
+C:\Users\Sahar Hagbi\Desktop\B19 Ex02 Lidor 312465040 Sahar 308145853.sln\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Sahar Hagbi\Desktop\B19 Ex02 Lidor 312465040 Sahar 308145853.sln\UI\obj\Debug\UI.dll
+C:\Users\Sahar Hagbi\Desktop\B19 Ex02 Lidor 312465040 Sahar 308145853.sln\UI\obj\Debug\UI.pdb

@@ -1,0 +1,10 @@
+C:\Users\Sahar Hagbi\Desktop\B19 Ex02 Lidor 312465040 Sahar 308145853.sln\Ex02_Othelo\bin\Debug\Ex02_Othelo.exe
+C:\Users\Sahar Hagbi\Desktop\B19 Ex02 Lidor 312465040 Sahar 308145853.sln\Ex02_Othelo\bin\Debug\Ex02_Othelo.pdb
+C:\Users\Sahar Hagbi\Desktop\B19 Ex02 Lidor 312465040 Sahar 308145853.sln\Ex02_Othelo\bin\Debug\OthelloLogic.dll
+C:\Users\Sahar Hagbi\Desktop\B19 Ex02 Lidor 312465040 Sahar 308145853.sln\Ex02_Othelo\bin\Debug\UI.dll
+C:\Users\Sahar Hagbi\Desktop\B19 Ex02 Lidor 312465040 Sahar 308145853.sln\Ex02_Othelo\bin\Debug\Ex02.ConsoleUtils.dll
+C:\Users\Sahar Hagbi\Desktop\B19 Ex02 Lidor 312465040 Sahar 308145853.sln\Ex02_Othelo\bin\Debug\OthelloLogic.pdb
+C:\Users\Sahar Hagbi\Desktop\B19 Ex02 Lidor 312465040 Sahar 308145853.sln\Ex02_Othelo\bin\Debug\UI.pdb
+C:\Users\Sahar Hagbi\Desktop\B19 Ex02 Lidor 312465040 Sahar 308145853.sln\Ex02_Othelo\obj\Debug\Ex02_Othelo.csprojResolveAssemblyReference.cache
+C:\Users\Sahar Hagbi\Desktop\B19 Ex02 Lidor 312465040 Sahar 308145853.sln\Ex02_Othelo\obj\Debug\Ex02_Othelo.exe
+C:\Users\Sahar Hagbi\Desktop\B19 Ex02 Lidor 312465040 Sahar 308145853.sln\Ex02_Othelo\obj\Debug\Ex02_Othelo.pdb
